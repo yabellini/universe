@@ -12,7 +12,7 @@
         "url": "https://github.com/AgRoMeteorologiaINTA/siga"
     },
     {
-        "package": "sisintar",
+        "package": "SISINTAR",
         "url": "https://github.com/INTA-Suelos/SISINTAR"
     },
     {
@@ -20,15 +20,15 @@
         "url": "https://github.com/yabellini/learnres"
     },
     {
-        "package": "tutorialiterar",
+        "package": "TutorialIterar",
         "url": "https://github.com/yabellini/TutorialIterar"
     },
     {
-        "package": "textminingtutorial",
+        "package": "TextMiningTutorial",
         "url": "https://github.com/yabellini/TextMiningTutorial"
     },
     {
-        "package": "tutorialgraficosfn",
+        "package": "TutorialgRaficosFN",
         "url": "https://github.com/yabellini/tutorialgRaficosFN"
     }
 ]

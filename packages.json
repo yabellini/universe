@@ -1,0 +1,34 @@
+[
+    {
+        "package": "learnr",
+        "url": "https://github.com/rstudio/learnr"
+    },
+    {
+        "package": "agromet",
+        "url": "https://github.com/AgRoMeteorologiaINTA/agromet"
+    },
+    {
+        "package": "siga",
+        "url": "https://github.com/AgRoMeteorologiaINTA/siga"
+    },
+    {
+        "package": "sisintar",
+        "url": "https://github.com/INTA-Suelos/SISINTAR"
+    },
+    {
+        "package": "learnres",
+        "url": "https://github.com/yabellini/learnres"
+    },
+    {
+        "package": "tutorialiterar",
+        "url": "https://github.com/yabellini/TutorialIterar"
+    },
+    {
+        "package": "textminingtutorial",
+        "url": "https://github.com/yabellini/TextMiningTutorial"
+    },
+    {
+        "package": "tutorialgraficosfn",
+        "url": "https://github.com/yabellini/tutorialgRaficosFN"
+    }
+]

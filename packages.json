@@ -4,8 +4,8 @@
         "url": "https://github.com/rstudio/learnr"
     },
     {
-        "package": "agromet",
-        "url": "https://github.com/AgRoMeteorologiaINTA/agromet"
+        "package": "agroclimatico",
+        "url": "https://github.com/AgRoMeteorologiaINTA/agroclimatico"
     },
     {
         "package": "siga",
